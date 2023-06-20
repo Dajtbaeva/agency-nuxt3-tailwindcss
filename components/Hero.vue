@@ -44,7 +44,7 @@
         <div class="absolute top-5 right-[15%] group cursor-pointer">
           <div class="h-20 w-16 bg-amber-400 rounded-full relative">
             <img
-              src="/arrow.png"
+              src="/arrow.png" 
               alt="img"
               class="w-full absolute -left-8 top-3 group-hover:translate-x-4 transition-all duration-300"
             />
@@ -78,7 +78,3 @@
     </div>
   </section>
 </template>
-
-<script setup></script>
-
-<style scoped></style>

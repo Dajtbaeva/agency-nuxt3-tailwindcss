@@ -22,7 +22,7 @@ module.exports = {
         slideDown: "slideDown 1s ease-in-out",
       },
       keyframes: {
-        fade: {
+        fade: { 
           "0%": { scale: 0, opacity: 0 },
           "100%": { scale: 1, opacity: 1 },
         },
